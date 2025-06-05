@@ -1,2 +1,7 @@
 "Gl¢ria a Deus" 
+<<<<<<< HEAD
 denovoss
+=======
+Mais uma vez
+teste
+>>>>>>> b03826a4523b5d9c7ed4bd4effbca63403df0cd8
